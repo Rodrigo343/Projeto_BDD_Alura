@@ -12,7 +12,7 @@ Como queremos integrar todos os envolvidos no projeto, incluindo aqueles que nã
 
 ---
 
-## Utilizações do Cucumber
+## :information_source: Utilizações do Cucumber
 
 ### :one: Scenario Outline
 
