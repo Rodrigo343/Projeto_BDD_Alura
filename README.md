@@ -1,5 +1,8 @@
 # Projeto_BDD_Alura
 
+:dart: Esse é projeto modelo utilizado no curso, no qual foco é a utilização do cucumber no mesmo para entendimento e aplicação do BDD e aprendizado sobre suas funcionalidades.
+
+---
 ## :information_source: BDD
 
 O Behavior Driven Development (BDD) é uma metodologia ágil tem como objetivo fazer um processo de entendimento do projeto com todas as áreas que vão atuar no mesmo, seja cliente, desenvolvedor, PO. Após reunir todos para entender os objetivos do projeto é feito um documento para formalizar todo o projeto, o mesmo não necessariamente precisa ser técnico. Posterior a isso é dado início ao desenvolvimento do projeto e como ultima etapa é realizada as validações pelo cliente.
@@ -21,4 +24,8 @@ Após aprendermos os conceitos básicos do cucumber, como criar e implementar os
 ### :two: DataTables
 
 As DataTables tem o mesmo intuito do **Scenario Outline** mas ambos tem uma diferença na hora de execução. Com o DataTables só ocorre uma execução e o intuito é passar os dados de um só vez e fazer com que o teste trabalhe com eles. Já o Scenario Outline o teste é executado varias vezes, o equivalente a quantidade de dados que você deseja passar por meio dele.
+
+### :three: Tags
+
+Com a tag podemos criar arquivos específicos que executam testes que contenham uma tag especifico ou que não executem testes com a tag em especifico. Esse recurso pode facilitar muito para o desenvolvimento dos testes das funcionalidades do sistemas, os fluxos de teste que devem ser realizados caso precisarmos executar um parte especifica, as tags podem ser usadas de inúmeras forma diferentes para moldar a execução dos testes a sua necessidade.
 
